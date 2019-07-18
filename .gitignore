@@ -1,0 +1,12 @@
+# Ignore everything
+*
+# except subsolders
+!*/**
+# source code
+!src
+# misc
+!.gitignore
+!package.json
+!package-lock.json
+!.huskyrc.js
+!rollup.config.js
