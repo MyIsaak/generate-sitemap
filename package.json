@@ -11,13 +11,16 @@
   "keywords": [],
   "author": "Isaak Eriksson <isaak.eriksson@gmail.com>",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "sitemap": "^3.2.2"
+  },
   "devDependencies": {
     "dotenv": "^8.0.0",
     "husky": "^3.0.0",
     "prettier": "^1.18.2",
     "pretty-quick": "^1.11.1",
     "rollup": "^1.17.0",
+    "rollup-plugin-commonjs": "^10.0.1",
     "rollup-plugin-node-resolve": "^5.2.0"
   }
 }
