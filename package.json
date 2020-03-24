@@ -17,9 +17,9 @@
   "devDependencies": {
     "dotenv": "^8.0.0",
     "husky": "^4.2.3",
-    "prettier": "^1.18.2",
+    "prettier": "^2.0.2",
     "pretty-quick": "^1.11.1",
-    "rollup": "^1.17.0",
+    "rollup": "^2.1.0",
     "rollup-plugin-commonjs": "^10.0.1",
     "rollup-plugin-node-resolve": "^5.2.0"
   }
